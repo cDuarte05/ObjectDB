@@ -30,6 +30,6 @@ public class Produto {
 
     @Override
     public String toString() {
-        return String.format("Produto[id=%d, nome=%s, preco=%.2f]", id, nome, preco);
+        return String.format("Produto[ID = " + id + ", Nome = " + nome + ", Preco = " + preco + "]");
     }
 }
