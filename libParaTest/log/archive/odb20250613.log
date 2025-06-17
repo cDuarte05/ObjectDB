@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-13 22:33:59 #1 store] 
+Database 'C:\Users\Luis\Desktop\HTOBDA2 - Tutorial\ObjectDB\produtos.odb' is opened by 13280@MDSNB
+
+[2025-06-13 22:33:59 #2 store] 
+Configuration path: ?
+
+[2025-06-13 22:33:59 #3 type] 
+Type objectaula.Produto is not enhanced.
+
+[2025-06-13 22:33:59 #4 store] 
+Database 'C:\Users\Luis\Desktop\HTOBDA2 - Tutorial\ObjectDB\produtos.odb' is closed by 13280@MDSNB
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-06-13 22:34:52 #1 store] 
+Database 'C:\Users\Luis\Desktop\HTOBDA2 - Tutorial\ObjectDB\produtos.odb' is opened by 6044@MDSNB
+
+[2025-06-13 22:34:52 #2 store] 
+Configuration path: ?
+
+[2025-06-13 22:34:52 #3 type] 
+Type objectaula.Produto is not enhanced.
+
+[2025-06-13 22:34:52 #4 store] 
+Database 'C:\Users\Luis\Desktop\HTOBDA2 - Tutorial\ObjectDB\produtos.odb' is closed by 6044@MDSNB
+
